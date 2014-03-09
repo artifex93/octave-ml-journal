@@ -5,4 +5,4 @@ y = abs(sin(t));
 plot(t,y);
 title('Rectified Sine wave');
 xlabel('t');
-xlabel('f(t)');
+ylabel('f(t)');
